@@ -1,0 +1,26 @@
+#body{
+    background-color:black;
+    width: 100%;
+    
+
+}
+
+#kBContainer {
+    margin: auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 50%;    
+}
+.keyBTN{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-width: 0;
+    background-color: rgb(0, 110, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin: 5px;
+    text-align: center;
+}
